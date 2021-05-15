@@ -1,4 +1,4 @@
-package com.mamglez.proyectospring_desktop;
+package com.mamglez.proyectospring_desktop.test;
 
 import static org.junit.Assert.assertTrue;
 
